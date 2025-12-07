@@ -92,4 +92,16 @@ Follow these steps to run the project on your local machine.
 
 ---
 
-## 📁 Project Structure
+
+
+## 🤝 Contribution
+
+Feel free to fork this repository, create a new branch, and submit a pull request. Any contributions, bug fixes, or feature enhancements are welcome!
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+**Engineered with ❤️ by a CS Engineer.**
