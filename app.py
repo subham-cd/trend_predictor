@@ -11,6 +11,15 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed"
 )
+# --- NEW: HIDE STREAMLIT STYLE (Toolbar hatane ke liye) ---
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_st_style, unsafe_allow_html=True)
 
 # --- 2. DARK MODE CSS (Cyberpunk Style) ---
 st.markdown("""
