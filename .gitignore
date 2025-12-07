@@ -1,0 +1,12 @@
+# Virtual Environment (Bhaari files)
+venv/
+env/
+
+# Secrets (API Keys chupane ke liye)
+.streamlit/
+secrets.toml
+.env
+
+# Python Junk Files (Jo apne aap banti hain)
+__pycache__/
+*.pyc
